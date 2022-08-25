@@ -7,7 +7,7 @@ Most of my experience has been in **full stack development**, and I've also spen
 <ul>
   <li>Skilled in:</li>
   <ul>
-    <li><strong>C#, .NET, Python, Javascript, ReactJS, HTML, CSS, Bootstrap, SQL, REST API</strong></li>
+    <li><strong>C#, .NET, Python, Javascript, ReactJS, HTML, CSS, Bootstrap, SQL</strong></li>
   </ul>
   <li>Familiar with:</li>
   <ul>
