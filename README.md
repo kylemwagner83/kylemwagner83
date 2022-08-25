@@ -11,7 +11,7 @@ Most of my experience has been in **full stack development**, and I've also spen
   </ul>
   <li>Familiar with:</li>
   <ul>
-    <li>C++, Ruby, ExpressJS, Flask, Django, Docker, Powershell, Android Studio</li>
+    <li>C++, Ruby, ExpressJS, Flask, Django, Angular, Docker, Powershell, Android Studio</li>
   </ul>
 </ul>
 <br>
