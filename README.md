@@ -59,6 +59,7 @@ Raw data from JoeScan laser scanners is read by an edge PC mounted on the machin
 
 
 <br>
+
 ### Recent Personal Projects:
 <ul>
 
